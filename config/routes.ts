@@ -55,6 +55,13 @@
 		icon: 'ArrowsAltOutlined',
 	},
 
+	{
+  path: '/bai-tap-1',
+  name: 'Bài tập 1',
+  component: './BaiTap1',
+  icon: 'FormOutlined',
+},
+
 	// DANH MUC HE THONG
 	// {
 	// 	name: 'DanhMuc',
