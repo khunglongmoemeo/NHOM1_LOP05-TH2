@@ -19,7 +19,7 @@
 				"description": "获取当前的用户",
 				"operationId": "currentUser",
 				"responses": {
-					"200": {
+					"200": {yarn
 						"description": "Success",
 						"content": {
 							"application/json": {
