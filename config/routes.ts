@@ -115,3 +115,15 @@
 		component: './exception/404',
 	},
 ];
+{
+  path: '/KhaoThi',
+  name: 'Khảo thí',
+  icon: 'FileTextOutlined',
+  routes: [
+    {
+      path: '/KhaoThi/DeThi',
+      name: 'Đề thi',
+      component: './KhaoThi/DeThi',
+    },
+  ],
+},
